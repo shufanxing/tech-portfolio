@@ -4,6 +4,7 @@ title: About
 ---
 
 I am Shufan Xing. I am an Software Engineer in Amazon.
+I enjoy the living on Cloud. 
 
 1. Software Engineer
 1. Organizations you're involved with
@@ -15,7 +16,7 @@ Write it in first (I) or third (Your Name Here) person.
 > Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
 
 ## Current Role
-
+Software Engineer
 Grace Hopper Celebration Attendee
 
 ## Recognition
